@@ -6,9 +6,7 @@ The goal of this project is to de-stigmatize social safety net programs like SNA
 The files in this repository include:
 
 + acs_data_extraction.ipynb, which includes data extraction, wrangling, cleaning, and initial plots for the app
-+ 
 + census_app_script.py, the app script, which can run in a terminal by using the command **streamlit run census_app_script.py**
-+ 
 + requirements.txt, the list of python modules that the app uses, which was necessary for storing the app in the streamlit cloud
 
 To view the app in the streamlit cloud, go to https://share.streamlit.io/abby-wolfe/census_api_app_ppol565_final_project/main/census_app_script.py
